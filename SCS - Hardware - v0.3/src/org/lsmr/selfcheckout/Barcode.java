@@ -5,8 +5,6 @@ import java.util.Arrays;
 
 import org.lsmr.selfcheckout.devices.SimulationException;
 
-
-// hello 
 /**
  * Represents a barcode value (not the graphic barcode itself). Real-world
  * barcodes are a sequence of digits, so that is what is modelled here.
